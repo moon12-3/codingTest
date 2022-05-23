@@ -1,0 +1,16 @@
+<script>
+    let user = {
+        name : "moon",
+        age : 18,
+        isAdmin : true
+    };
+    for(key in user) {
+        let value = user[key];
+        user[value] = key;
+        delete user[key];
+    }
+
+    for(key in user) {
+        console.log(key +" : "+user[key]);
+    }
+</script>
