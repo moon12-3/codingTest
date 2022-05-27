@@ -3,3 +3,4 @@
 - 1일차 - 완주하지 못한 선수(https://programmers.co.kr/learn/courses/30/lessons/42576?language=javascript)
 - 2일차 - key와 value값 변경
 - 3일차 - 없는 숫자 더하기(https://programmers.co.kr/learn/courses/30/lessons/86051)
+- 4일차 - 내적(https://programmers.co.kr/learn/courses/30/lessons/70128/solution_groups?language=javascript)
