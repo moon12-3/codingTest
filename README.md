@@ -8,3 +8,4 @@
 - 6일차 - 음양 더하기(https://programmers.co.kr/learn/courses/30/lessons/76501)
 - 7일차 - 모의고사(https://programmers.co.kr/learn/courses/30/lessons/42840)
 - 8일차 - k번째 수(https://programmers.co.kr/learn/courses/30/lessons/42748) // map함수를 사용하면 더 간략화 할 수 있음
+- 9일차 - 2016(https://programmers.co.kr/learn/courses/30/lessons/12901)
