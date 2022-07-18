@@ -10,3 +10,4 @@
 - 8일차 - k번째 수(https://programmers.co.kr/learn/courses/30/lessons/42748) // map함수를 사용하면 더 간략화 할 수 있음
 - 9일차 - 2016(https://programmers.co.kr/learn/courses/30/lessons/12901)
 - 10일차 - 이상한 문자 만들기(https://programmers.co.kr/learn/courses/30/lessons/12930)
+- 11일차 - 가운데 글자 가져오기(https://school.programmers.co.kr/learn/courses/30/lessons/12903)
