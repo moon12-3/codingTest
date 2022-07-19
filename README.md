@@ -11,3 +11,4 @@
 - 9일차 - 2016(https://programmers.co.kr/learn/courses/30/lessons/12901)
 - 10일차 - 이상한 문자 만들기(https://programmers.co.kr/learn/courses/30/lessons/12930)
 - 11일차 - 가운데 글자 가져오기(https://school.programmers.co.kr/learn/courses/30/lessons/12903)
+- 12일차 - 같은 숫자는 싫어(https://school.programmers.co.kr/learn/courses/30/lessons/12906)
