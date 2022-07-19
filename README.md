@@ -11,4 +11,4 @@
 - 9일차 - 2016(https://programmers.co.kr/learn/courses/30/lessons/12901)
 - 10일차 - 이상한 문자 만들기(https://programmers.co.kr/learn/courses/30/lessons/12930)
 - 11일차 - 가운데 글자 가져오기(https://school.programmers.co.kr/learn/courses/30/lessons/12903)
-- 12일차 - 같은 숫자는 싫어(https://school.programmers.co.kr/learn/courses/30/lessons/12906)
+- 12일차 - 같은 숫자는 싫어(https://school.programmers.co.kr/learn/courses/30/lessons/12906) // return arr.filter((val,index) => val != arr[index+1]); 한 문장으로도 끝날 수 있었던 문제. JS의 특성을 굉장히 잘 이용한 것 같다!
