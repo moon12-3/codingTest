@@ -12,3 +12,4 @@
 - 10일차 - 이상한 문자 만들기(https://programmers.co.kr/learn/courses/30/lessons/12930)
 - 11일차 - 가운데 글자 가져오기(https://school.programmers.co.kr/learn/courses/30/lessons/12903)
 - 12일차 - 같은 숫자는 싫어(https://school.programmers.co.kr/learn/courses/30/lessons/12906) // return arr.filter((val,index) => val != arr[index+1]); 한 문장으로도 끝날 수 있었던 문제. JS의 특성을 굉장히 잘 이용한 것 같다!
+- 13일차 - 두 정수 사이의 합(https://school.programmers.co.kr/learn/courses/30/lessons/12912)  // 가우스 공식을 쓰면 한 줄로도 풀이가 가능하다. return (a+b)*(Math.abs(a-b))/2; 수학공식을 잘 기억해두자
