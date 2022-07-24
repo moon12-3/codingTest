@@ -15,3 +15,4 @@
 - 13일차 - 두 정수 사이의 합(https://school.programmers.co.kr/learn/courses/30/lessons/12912)  // 가우스 공식을 쓰면 한 줄로도 풀이가 가능하다. return (a+b)*(Math.abs(a-b))/2; 수학공식을 잘 기억해두자
 - 14일차 - 최소 직사각형(https://school.programmers.co.kr/learn/courses/30/lessons/86491?language=javascript) // 오래 고민을 했는데... 그냥 가장 큰 값을 왼쪽에, 가장 작은 값을 오른쪽에 두고 찾으면 되는 거였다.
          <br>&nbsp;&nbsp;&nbsp;&nbsp;- 예산(https://school.programmers.co.kr/learn/courses/30/lessons/12982)
+- 15일차 - 나누어 떨어지는 숫자 배열(https://school.programmers.co.kr/learn/courses/30/lessons/12910)  // filter함수를 사용했다. 함수를 능숙하게 적용할 수 있게 계속 적용할 수 있는 케이스를 찾아봐야겠다.
