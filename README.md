@@ -17,3 +17,4 @@
          <br>&nbsp;&nbsp;&nbsp;&nbsp;- 예산(https://school.programmers.co.kr/learn/courses/30/lessons/12982)
 - 15일차 - 나누어 떨어지는 숫자 배열(https://school.programmers.co.kr/learn/courses/30/lessons/12910)  // filter함수를 사용했다. 함수를 능숙하게 적용할 수 있게 계속 적용할 수 있는 케이스를 찾아봐야겠다.
 - 16일차 - 8일차에 js로 풀었던 문제를 java를 통해 해결하였다. java의 Arrays클래스를 이용하여 풀었는데, Arrays.copyOfRange(배열, 시작, 끝)과 Arrays.sort(배열)을 쓰면 간단하게 풀 수 있다.
+- 17일차 - 기지국 문제. greedy(탐욕법)을 이용했어야 하는 문제였는데, 처음엔 배열을 통해 기지국의 영향을 받는 곳은 1, 아닌 곳은 0으로 하여 탐색을 했는데 후에는 1번째 공간부터 탐색하며 이미 설치되어 있던 기지국의 영향권이라면 다음으로 넘어가는 식으로 for문 하나만 사용하여 간단하게 해결할 수 있었다.
