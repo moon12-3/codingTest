@@ -1,0 +1,11 @@
+import java.util.*;
+
+class Solution {
+    public String[] solution(String[] strings, int n) {
+        Arrays.sort(strings, (x, y) -> {
+            if(x.charAt(n)-y.charAt(n)==0) return x.compareTo(y);
+            else return x.charAt(n)-y.charAt(n);
+            });
+        return strings;
+    }
+}
